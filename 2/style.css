@@ -1,0 +1,25 @@
+.nav{
+/* background-color: blue; */
+ padding: 40px 80px;
+  color: #fff;
+  font-size: x-large;
+  text-align: center;
+}
+.content{
+background-color: rgb(255, 162, 0);
+ padding: 40px 80px;
+  color: #fff;
+  font-size: x-large;
+  text-align: center;
+
+
+}
+.widget{
+background-color: rgb(246, 48, 38);
+ padding: 40px 80px;
+  color: #fff;
+  font-size: x-large;
+  text-align: center;
+
+
+}
